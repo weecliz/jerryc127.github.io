@@ -1,0 +1,1 @@
+function show_date_time(){window.setTimeout("show_date_time()",1e3),BirthDay=new Date("6/7/2018 00:00:00"),today=new Date,timeold=today.getTime()-BirthDay.getTime(),msPerDay=864e5,e_daysold=timeold/msPerDay,daysold=Math.floor(e_daysold),webinfo_runtime_count.innerHTML=daysold+"&nbsp;天"}show_date_time();
