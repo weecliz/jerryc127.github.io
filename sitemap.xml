@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://jerryc.me/melody.json</loc>
+    
+    <lastmod>2019-06-10T12:35:21.652Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://jerryc.me/music/index.html</loc>
     
     <lastmod>2019-06-04T10:06:27.439Z</lastmod>
