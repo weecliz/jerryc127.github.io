@@ -75,7 +75,7 @@
     <link href="https://jerryc.me/posts/59b77e20/"/>
     <id>https://jerryc.me/posts/59b77e20/</id>
     <published>2019-05-22T10:33:08.000Z</published>
-    <updated>2019-06-16T15:24:17.229Z</updated>
+    <updated>2019-06-17T15:06:04.519Z</updated>
     
     <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><p>Windows上的軟件數不勝數,同一類型的軟件眾多。到底哪一款才是適合你自己的，只有自己親自試用過才知道。以下是我比較喜歡的軟件，特別推薦給各位。</p><ol><li>下載工具：<a href="https://www.qbittorrent.org/" rel="external nofollow noopener noreferrer" target="_blank">qBittorrent</a>和<a href="https://www.internetdownloadmanager.com/" rel="external nofollow noopener noreferrer" target="_blank">Internet Download Manager</a></li><li>聊天軟件：<a href="https://tim.qq.com/index.html" rel="external nofollow noopener noreferrer" target="_blank">tim</a>(雖然已經被騰訊放棄了，但是比起QQ那麼臃腫，這個好用點）和 <a href="https://www.microsoft.com/en-us/p/wechat-for-windows/9nblggh4slx7?activetab=pivot:overviewtab" rel="external nofollow noopener noreferrer" target="_blank">微信</a>(store轉製版）</li><li>截圖軟件： <a href="https://zh.snipaste.com/" rel="external nofollow noopener noreferrer" target="_blank">snipaste</a> 這個必須推薦</li><li>編輯器： <a href="https://code.visualstudio.com/" rel="external nofollow noopener noreferrer" target="_blank">vscode</a></li><li>瀏覽器： <a href="https://www.google.com/chrome/" rel="external nofollow noopener noreferrer" target="_blank">chrome</a></li><li>視頻播放器： <a href="https://potplayer.daum.net/" rel="external nofollow noopener noreferrer" target="_blank">potplayer</a> 和 <a href="https://www.microsoft.com/store/productId/9NBLGGH5Q5FV" rel="external nofollow noopener noreferrer" target="_blank">嗶哩嗶哩UWP</a></li><li>詞典： <a href="https://www.eudic.net/v4/en/app/eudic" rel="external nofollow noopener noreferrer" target="_blank">歐陸詞典</a> 和 <a href="http://goldendict.org/" rel="external nofollow noopener noreferrer" target="_blank">GoldenDict</a></li><li>筆記：<a href="https://products.office.com/zh-hk/onenote/digital-note-taking-app?rtc=1" rel="external nofollow noopener noreferrer" target="_blank">onenote</a>  和 <a href="https://evernote.com/intl/zh-tw" rel="external nofollow noopener noreferrer" target="_blank">evernote</a> (用這個截取網頁的內容，onenote的web clipper太差）</li><li>簡單視頻製作：<a href="https://www.adobe.com/hk_zh/products/premiere/free-trial-download.html" rel="external nofollow noopener noreferrer" target="_blank">Adobe Premiere Pro</a> (編輯視頻） <a href="https://www.4kdownload.com/download" rel="external nofollow noopener noreferrer" target="_blank">4K Video Downloader</a>（下載視頻） <a href="http://www.aegisub.org/" rel="external nofollow noopener noreferrer" target="_blank">Aegisub</a> (製作字幕） <a href="https://sourceforge.net/projects/megui/" rel="external nofollow noopener noreferrer" target="_blank">Megui</a>(壓制視頻）</li><li>搜索： <a href="https://www.voidtools.com/" rel="external nofollow noopener noreferrer" target="_blank">everything</a></li><li>圖片查看： <a href="https://www.faststone.org/FSViewerDetail.htm" rel="external nofollow noopener noreferrer" target="_blank">FastStone Image Viewer</a></li><li>壓縮軟件：<a href="https://www.rarlab.com/" rel="external nofollow noopener noreferrer" target="_blank">winrar</a> (7zip也不錯，但是不能設置解壓完自動打開解壓的文件夾，只能放棄）</li><li>清理軟件： <a href="https://www.wisecleaner.com/wise-care-365.html" rel="external nofollow noopener noreferrer" target="_blank">Wise Care 365</a>  和 <a href="https://www.ccleaner.com/" rel="external nofollow noopener noreferrer" target="_blank">CCleaner</a></li></ol>]]></content>
     
@@ -299,9 +299,9 @@
       <category term="Windows" scheme="https://jerryc.me/categories/%E6%95%99%E7%A8%8B/Windows/"/>
     
     
-      <category term="Java" scheme="https://jerryc.me/tags/Java/"/>
-    
       <category term="Windows" scheme="https://jerryc.me/tags/Windows/"/>
+    
+      <category term="Java" scheme="https://jerryc.me/tags/Java/"/>
     
       <category term="教程" scheme="https://jerryc.me/tags/%E6%95%99%E7%A8%8B/"/>
     
@@ -398,11 +398,11 @@
     
       <category term="第一行代碼" scheme="https://jerryc.me/tags/%E7%AC%AC%E4%B8%80%E8%A1%8C%E4%BB%A3%E7%A2%BC/"/>
     
+      <category term="Layout" scheme="https://jerryc.me/tags/Layout/"/>
+    
       <category term="RecyclerView" scheme="https://jerryc.me/tags/RecyclerView/"/>
     
       <category term="佈局" scheme="https://jerryc.me/tags/%E4%BD%88%E5%B1%80/"/>
-    
-      <category term="Layout" scheme="https://jerryc.me/tags/Layout/"/>
     
   </entry>
   
