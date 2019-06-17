@@ -20,9 +20,9 @@
       
         <tags>
             
-            <tag> 主題 </tag>
-            
             <tag> 教程 </tag>
+            
+            <tag> 主題 </tag>
             
             <tag> hexo </tag>
             
@@ -275,11 +275,11 @@
       
         <tags>
             
+            <tag> 教程 </tag>
+            
             <tag> Hexo </tag>
             
             <tag> 主題 </tag>
-            
-            <tag> 教程 </tag>
             
         </tags>
       
@@ -405,11 +405,11 @@
             
             <tag> 第一行代碼 </tag>
             
-            <tag> Layout </tag>
-            
             <tag> RecyclerView </tag>
             
             <tag> 佈局 </tag>
+            
+            <tag> Layout </tag>
             
         </tags>
       
@@ -558,11 +558,11 @@
       
         <tags>
             
+            <tag> 教程 </tag>
+            
             <tag> Hexo </tag>
             
             <tag> 主題 </tag>
-            
-            <tag> 教程 </tag>
             
             <tag> next </tag>
             
