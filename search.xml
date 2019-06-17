@@ -53,9 +53,9 @@
       
         <tags>
             
-            <tag> 教程 </tag>
-            
             <tag> Windows </tag>
+            
+            <tag> 教程 </tag>
             
         </tags>
       
@@ -80,7 +80,7 @@
       
         <tags>
             
-            <tag> windows </tag>
+            <tag> Windows </tag>
             
             <tag> 軟件 </tag>
             
@@ -308,7 +308,7 @@
             
             <tag> Java </tag>
             
-            <tag> windows </tag>
+            <tag> Windows </tag>
             
             <tag> 教程 </tag>
             
@@ -405,11 +405,11 @@
             
             <tag> 第一行代碼 </tag>
             
-            <tag> Layout </tag>
-            
             <tag> RecyclerView </tag>
             
             <tag> 佈局 </tag>
+            
+            <tag> Layout </tag>
             
         </tags>
       
