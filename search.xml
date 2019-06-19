@@ -84,6 +84,8 @@
             
             <tag> 軟件 </tag>
             
+            <tag> Ui </tag>
+            
         </tags>
       
     </entry>
@@ -306,11 +308,13 @@
       
         <tags>
             
-            <tag> Windows </tag>
-            
             <tag> Java </tag>
             
+            <tag> Windows </tag>
+            
             <tag> 教程 </tag>
+            
+            <tag> UI </tag>
             
         </tags>
       
@@ -372,9 +376,9 @@
             
             <tag> 第一行代碼 </tag>
             
-            <tag> 9Patch </tag>
-            
             <tag> UI </tag>
+            
+            <tag> 9Patch </tag>
             
         </tags>
       
