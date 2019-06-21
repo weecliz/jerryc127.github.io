@@ -20,11 +20,11 @@
       
         <tags>
             
+            <tag> Hexo </tag>
+            
             <tag> 主題 </tag>
             
             <tag> 教程 </tag>
-            
-            <tag> hexo </tag>
             
             <tag> butterfly </tag>
             
@@ -83,8 +83,6 @@
             <tag> Windows </tag>
             
             <tag> 軟件 </tag>
-            
-            <tag> Ui </tag>
             
         </tags>
       
@@ -314,8 +312,6 @@
             
             <tag> 教程 </tag>
             
-            <tag> UI </tag>
-            
         </tags>
       
     </entry>
@@ -376,9 +372,9 @@
             
             <tag> 第一行代碼 </tag>
             
-            <tag> UI </tag>
-            
             <tag> 9Patch </tag>
+            
+            <tag> UI </tag>
             
         </tags>
       
