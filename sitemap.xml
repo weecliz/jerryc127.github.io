@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://jerryc.me/about/index.html</loc>
+    
+    <lastmod>2019-06-27T17:22:51.263Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://jerryc.me/messageboard/index.html</loc>
     
     <lastmod>2019-06-27T17:03:58.872Z</lastmod>
@@ -12,13 +19,6 @@
     <loc>https://jerryc.me/music/index.html</loc>
     
     <lastmod>2019-06-27T16:54:54.981Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://jerryc.me/about/index.html</loc>
-    
-    <lastmod>2019-06-27T16:53:20.708Z</lastmod>
     
   </url>
   
