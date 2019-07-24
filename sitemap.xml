@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://jerryc.me/tags/index.html</loc>
+    
+    <lastmod>2019-07-24T07:09:54.084Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://jerryc.me/posts/21cfbf15/</loc>
     
     <lastmod>2019-07-06T10:17:12.326Z</lastmod>
@@ -187,13 +194,6 @@
     <loc>https://jerryc.me/link/index.html</loc>
     
     <lastmod>2019-04-27T16:55:40.606Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://jerryc.me/tags/index.html</loc>
-    
-    <lastmod>2019-04-27T16:52:39.006Z</lastmod>
     
   </url>
   
