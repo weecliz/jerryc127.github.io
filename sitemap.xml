@@ -2,9 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://jerryc.me/messageboard/index.html</loc>
+    
+    <lastmod>2019-08-08T17:16:27.514Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://jerryc.me/posts/21cfbf15/</loc>
+    
+    <lastmod>2019-08-08T17:15:24.151Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://jerryc.me/posts/19f9ade4/</loc>
+    
+    <lastmod>2019-08-08T14:40:33.826Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://jerryc.me/music/index.html</loc>
     
-    <lastmod>2019-07-28T12:23:05.474Z</lastmod>
+    <lastmod>2019-08-03T11:03:17.542Z</lastmod>
     
   </url>
   
@@ -16,30 +37,9 @@
   </url>
   
   <url>
-    <loc>https://jerryc.me/posts/21cfbf15/</loc>
-    
-    <lastmod>2019-07-06T10:17:12.326Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://jerryc.me/posts/19f9ade4/</loc>
-    
-    <lastmod>2019-07-06T08:23:47.191Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://jerryc.me/about/index.html</loc>
     
     <lastmod>2019-06-27T17:22:51.263Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://jerryc.me/messageboard/index.html</loc>
-    
-    <lastmod>2019-06-27T17:03:58.872Z</lastmod>
     
   </url>
   
